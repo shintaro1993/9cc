@@ -22,4 +22,6 @@ assert 2 "1+1"
 
 assert 41 " 12 + 34 - 5"
 
+assert 4 '(3+5)/2'
+
 echo ok
