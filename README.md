@@ -4,6 +4,6 @@
 $ make
 
 ## gitの使い方
-git add .
-git commit -m "msg"
-git push origin main
+git add .<br>
+git commit -m "msg"<br>
+git push origin main<br>
